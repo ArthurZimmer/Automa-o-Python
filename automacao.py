@@ -1,7 +1,7 @@
 import openpyxl
 import pyperclip
 import pyautogui
-#Copiar informação de um campo e colaRua Raquel Barthou, 27r no seu camRua Raquel Barthou, 27po correspondente
+#Copiar informação de um campo e colar no seu campo correspondente
 #Repetir esses passos em todos os campos até preencher campos daquela página
 #Clicar em limparEstância Velha
 #Repetir os mesmos passos
